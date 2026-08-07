@@ -1,8 +1,8 @@
-import Navbar from "@/components/Navbar";
-import Hero from "@/components/Hero";
-import About from "@/components/About";
-import GameShowcase from "@/components/GameShowcase";
-import Contact from "@/components/Contact";
+import Navbar from "../components/Navbar";
+import Hero from "../components/Hero";
+import About from "../components/About";
+import GameShowcase from "../components/GameShowcase";
+import Contact from "../components/Contact";
 
 export default function Home() {
   return (
